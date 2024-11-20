@@ -185,14 +185,7 @@ public class Lista extends AppCompatActivity {
                         "Buu, era controlado por Bibidi. Durante su creación, los Supremo Kaiō Shin intervinieron, pero en la batalla Buu mata a los Kaiō Shin del Norte y el Kaiō Shin del Oeste. Durante su lucha contra el Kaiō Shin del Sur, él lo absorbe y se convierte en Ultra Buu; cuando Ultra Buu está apunto de Matar al Kaiō Shin del Este, Dai Kaiō Shin interviene y es absorbido por Buu, transformándose definitivamente en Majin Buu."
         ));
 
-        listaPersonajes.add(new Personaje(
-                R.drawable.goku,
-                "PRUEBA",
-                "PROBANDO",
-                R.drawable.goku,
-                R.drawable.goku,
-                "Este es un personaje de prueba. Goku es el protagonista de la serie, un Saiyan que lucha para proteger a la Tierra y a sus seres queridos."
-        ));
+      
     }
 
     @Override
